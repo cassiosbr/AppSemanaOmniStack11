@@ -6,7 +6,7 @@ Foi um curso online onde pude desenvolver e aprender bastante sobre essa linguag
 
 As telas da aplicação:
 
-# Tela de inicialização do aplicativo:
+# Tela de inicialização do aplicativo
 
 <p align="center">
   <img src="img/img1.png" alt="Splash Screen" width="320" height="500" />
