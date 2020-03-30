@@ -15,7 +15,7 @@ As telas da aplicação:
 # Tela Principal
 
 <p align="center">
-  <img src="img2.png" alt="Casos" width="320" height="500" />
+  <img src="img/img2.png" alt="Casos" width="320" height="500" />
 </p>
 
 # Tela com detalhe dos casos
