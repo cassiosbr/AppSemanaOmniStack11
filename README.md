@@ -32,7 +32,7 @@ As telas da aplicação:
 
 # Rodando a aplicação
 
-- Para testar a aplicação em um celular é necessário dar um clone da aplicação.
+- Para testar a aplicação em um celular é necessário clonar a aplicação.
 - Abrir a aplicação backend e mobile em um terminal (Powersell ou prompt no Windows / No MacOS abrir o terminal do SO).
 - No diretório raiz, executar o comando <b>npm start</b>.
 - No celular, baixar o aplicativo <b>Expo (Expor Project)</b> nas lojas Play Store(Android) e App Store(Ipone), após instalado abrir o aplicativo expo e aportar a camera para o QR Code na pagina que será aberta após ter sido executado o comando <b>npm start</b>.
