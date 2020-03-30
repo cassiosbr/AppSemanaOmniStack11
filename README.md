@@ -9,23 +9,23 @@ As telas da aplicação:
 # Tela de inicialização do aplicativo:
 
 <p align="center">
-  <img src="img/img1.png" alt="Splash Screen" />
+  <img src="img/img1.png" alt="Splash Screen" width="320" height="500" />
 </p>
 
 # Tela Principal
 
 <p align="center">
-  <img src="img2.png" alt="Casos" />
+  <img src="img2.png" alt="Casos" width="320" height="500" />
 </p>
 
 # Tela com detalhe dos casos
 
 <p align="center">
-  <img src="img/img3.png" alt="Detalhe dos casos" />
+  <img src="img/img3.png" alt="Detalhe dos casos" width="320" height="500"/>
 </p>
 
 # Funcionalidade para enviar e-mail
 
 <p align="center">
-  <img src="img/img4.png" alt="Enviar e-mail" />
+  <img src="img/img4.png" alt="Enviar e-mail" width="320" height="500" />
 </p>
