@@ -24,7 +24,7 @@ As telas da aplicação:
   <img src="img/img3.png" alt="Detalhe dos casos" width="320" height="500"/>
 </p>
 
-# Funcionalidade para enviar e-mail
+# Enviar e-mail
 
 <p align="center">
   <img src="img/img4.png" alt="Enviar e-mail" width="320" height="500" />
