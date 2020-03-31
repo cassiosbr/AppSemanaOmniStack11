@@ -35,5 +35,5 @@ As telas da aplicação:
 - Para testar a aplicação em um celular é necessário clonar a aplicação.
 - Abrir a aplicação backend e mobile em um terminal (Powersell ou prompt no Windows / No MacOS abrir o terminal do SO).
 - No diretório raiz das aplicações backend e mobile, executar o comando <b>npm install</b> que irá criar um diretório com os módulos do node e depois executar o comando <b>npm start</b>, que irá iniciar o servidor.
-- No celular, baixar o aplicativo <b>Expo (Expor Project)</b> nas lojas Play Store(Android) e App Store(Iphone), após instalado abrir o aplicativo expo e aportar a camera para o QR Code na pagina que será aberta após ter sido executado o comando <b>npm start</b>.
+- No celular, baixar o aplicativo <b>Expo (Expor Project)</b> nas lojas Play Store(Android) e App Store(Iphone), após instalado abrir o aplicativo expo e aportar a camera para o QR Code na pagina que será aberta após ter sido executado o comando <b>yarn start</b>.
  - Depois de tudo ter sido feito, basta aguardar o carregaento do código e a aplicação é iniciada.
