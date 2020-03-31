@@ -39,7 +39,7 @@ export default function Incidents() {
 
         setIncidents([...incidents, ...response.data]);// uma forma de armazenar 2 vetores dentro de um unici vetor
         //setIncidents(response.data);
-        setTotal(response.headers['x-total-count']);
+        setTotal(response.headers['x-total-cound']);
         setPage(page + 1);
         setLoading(false);
     }
